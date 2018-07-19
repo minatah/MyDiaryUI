@@ -78,3 +78,8 @@ input[type=text], input[type=password], input[type=email] {
     padding-top: 20px;
     font-size: 100%;
 }
+.label-log {
+
+    font-style:normal;
+    font-size: 20px;
+}
