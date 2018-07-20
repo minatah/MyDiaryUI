@@ -30,7 +30,7 @@
 
   .layout{
     background-color: #0B5351;
-    height: 762px;
+    height: 820px;
     align-content: center;
     width: 100%;
     
@@ -43,7 +43,7 @@
     background-color: #fefefe;
    /* margin: 5% auto 15% auto;*/ /* 5% from the top, 15% from the bottom and centered */
   
-    margin-top: 3%;
+    margin-top: 0%;
     margin-bottom: 5%;
     border: 1px solid #888;
     width: 80%; /* Could be more or less, depending on screen size */
@@ -83,7 +83,7 @@ input[type=text], input[type=password], input[type=email] {
 }
 .title {
     color: white;
-    font-size: 19px;
+    font-size: 28px;
     width:300px;
     margin-right: 200px;
     display: inline-block;
@@ -92,6 +92,7 @@ input[type=text], input[type=password], input[type=email] {
     color: white;
     margin-left: 400px; 
     margin-top: 5%;
+    size: 50px;
    
     
 }
