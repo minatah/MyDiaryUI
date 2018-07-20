@@ -13,47 +13,46 @@
 <body>
     <div class="layout">
         <div class="topnav">
-            <a  href="../index.html"> My Diary </a>
+            <a href="../index.html"> My Diary </a>
             <a class="active" href="#entries"> Enter Entries </a>
-            <a href="#entries"> My Diary Entries </a>
-            <a href="../index.html" class="signout">Sign In </a>
+            <a href="./diaryContent.html"> My Diary Entries </a>
+            <a href="../index.html" class="signout">Sign Out </a>
 
         </div>
         <center>
-                <div>
-                    <div class="entry">
-                        My Diary Entry
-                    </div>
-                    <br>
-                    <div class="entry-content">
-                        <form>
-                            <div class="entrycontainer">
-                                <label class="label-entry">
-                                    Date:
-                                </label>
-                                <br>
-                                <input type="text" placeholder="Date" class="entries"  required>
-                                <br>
-                                <label class="label-entry">
-                                    Title:
-                                </label>
-                                <br>
-                                <input type="text" placeholder="entry title" class="entries" required>
-                                <br>
-                                <label class="label-entry">
-                                        Entry Content:
-                                    </label>
-                                    <br>
-                                    <input type="text"  class="entries-content" placeholder="content" required>
-    
-                                <button class="btnentry">
-                                    Save
-                                </button>
-                            </div>
-                        </form>
-                    </div>
+            <div>
+                <div class="entry">
+                    My Diary Entry
                 </div>
-            </center>
+                <br>
+                <div class="entry-content">
+                    <form>
+                        <div class="entrycontainer">
+                            <label class="label-entry">
+                                Date:
+                            </label>
+                            <br>
+                            <input type="date" placeholder="Date" class="entries" required>
+                            <br>
+                            <label class="label-entry">
+                                Title:
+                            </label>
+                            <br>
+                            <input type="text" placeholder="entry title" class="entries" required>
+                            <br>
+                            <label class="label-entry">
+                                Entry Content:
+                            </label>
+                            <br>
+                            <input type="text" class="entries-content" placeholder="content" required>
+                            <a href="./diaryContent.html">
+                                <button type="button" class="btnentry"> Save</button>
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </center>
     </div>
 </body>
 

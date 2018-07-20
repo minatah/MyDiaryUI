@@ -1,0 +1,156 @@
+.layout{
+    background-color: #0B5351;
+    height: 762px;
+    align-content: center;
+    width: 100%;
+    
+}
+.topnav {
+    overflow: hidden;
+    background-color: #4E8098;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(153, 134, 98);
+  }
+  
+  .topnav a.active {
+    background-color:#363946;
+    color: white;
+  }
+  .signout{
+    
+    margin-left: 1000px;
+    float: right;
+  }
+  .card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+    padding: 2px 16px;
+}
+.container2 {
+    padding: 2px 16px;
+    width: 400px;
+    height: 300px;
+}
+.content-entry {
+
+    font-style:normal;
+    font-size: 20px;
+    font-weight: bold;
+}
+.contents-entry {
+
+    font-style:normal;
+    font-size: 25px;
+    margin-left: 100px;
+    color: #0B5351;
+    font-weight: bold;
+}
+
+.contents {
+    margin-top: 30px;
+    color: #f2f2f2;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 400px;
+
+}
+.entries-content {
+    width: 95%;
+    padding: 15px;
+    height: 110px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+.list-entry {
+    
+    font-style:normal;
+    font-size: 20px;
+   
+    
+}
+.listentries-content {
+    width: 95%;
+    padding: 15px;
+    height: 250px;
+    margin: 2px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+.myentries {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+.contentcontainer {
+    padding: 30px;
+}
+.btnentry {
+    background-color: #363946;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    border-radius: 10px;
+    border-color: #107713;
+    padding-top: 20px;
+    font-size: 100%;
+}
+.entry-content {
+    background-color: #fefefe;
+   /* margin: 5% auto 15% auto;*/ /* 5% from the top, 15% from the bottom and centered */
+  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 200px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+    width:500px;
+    vertical-align: middle;
+    display: inline-block;
+    
+}
+.content of title {
+    background-color: #fefefe;
+   /* margin: 5% auto 15% auto;*/ /* 5% from the top, 15% from the bottom and centered */
+  
+    margin-top: 3%;
+    margin-bottom: 4%;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+    width:500px;
+    height: 300px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 100px;
+}
