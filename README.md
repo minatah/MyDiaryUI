@@ -1,6 +1,8 @@
+[![Build Status](https://travis-ci.org/minatah/MyDiaryUI.svg?branch=master)](https://travis-ci.org/minatah/MyDiaryUI)
+
 MyDiary is an online journal where users can pen down their thoughts and feelings.
 
-To access this API online visit [API Link ]()
+To access this API online visit [API Link ](https://challengetwo.herokuapp.com)
 
 ### Requirements Building blocks.
 - ```Python3``` - A programming language that lets us work more quickly (The universe loves speed!).
