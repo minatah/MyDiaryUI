@@ -1,6 +1,16 @@
 language: python
 python:
   - "3.6.4"
+#blacklisting
+branches:
+  except:
+    - master
+    - gh-pages
+#white listing
+branches:
+   only:
+     - challenge_2
+
 
 install:
   - pip install -r requirements.txt
