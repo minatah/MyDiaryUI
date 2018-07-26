@@ -18,7 +18,7 @@ install:
 
 # command to run tests
 script:
-  - nosetests --with-coverage
+  - pytest --cov=app/
 
 after_success:
   - coveralls
