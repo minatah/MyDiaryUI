@@ -1,7 +1,0 @@
-[
-  "tests/test_entries.py::Tests_Requests::test_entry_duplicates",
-  "tests/test_entries.py::Tests_Requests::test_entry_submission_successfully",
-  "tests/test_entries.py::Tests_Requests::test_get_all_entries",
-  "tests/test_entries.py::Tests_Requests::test_get_single_entry",
-  "tests/test_entries.py::Tests_Requests::test_update_single_entry"
-]
