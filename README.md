@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/minatah/MyDiaryUI.svg?branch=master)](https://travis-ci.org/minatah/MyDiaryUI)
+[![Build Status](https://travis-ci.org/minatah/MyDiaryUI.svg?branch=challenge_2)](https://travis-ci.org/minatah/MyDiaryUI)
 [![Coverage Status](https://coveralls.io/repos/github/minatah/MyDiaryUI/badge.svg?branch=challenge_2)](https://coveralls.io/github/minatah/MyDiaryUI?branch=challenge_2)
 
 MyDiary is an online journal where users can pen down their thoughts and feelings.
