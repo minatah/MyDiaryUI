@@ -30,4 +30,4 @@ omit =
       *html/*
       *_bootlocale.py*
       *typing.py*
-      *pytest_cache*
+      *pytest_cache/*
