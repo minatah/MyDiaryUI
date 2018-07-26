@@ -5,6 +5,8 @@ MyDiary is an online journal where users can pen down their thoughts and feeling
 
 To access the UI templates online visit [MyDiary](https://minatah.github.io/MyDiaryUI/)
 
+To access the API (challenge_2) visit[MyDiary](https://github.com/minatah/MyDiaryUI/tree/challenge_2)
+
 #### Requirements.
 * HTML.
 * CSS. 
